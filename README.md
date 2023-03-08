@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&width=520&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuyoou)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Shuyoou/Shuyoou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

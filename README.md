@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&width=520&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
 
 <!--
 **Shuyoou/Shuyoou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

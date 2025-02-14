@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=60000&color=122721&width=600&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=122721&width=435&lines=Infinity+named+final+journey.)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuyoou&show_icons=true&theme=blue-green)]([https://github.com/Shuyoou](https://github.com/anuraghazra/github-readme-stats))
 

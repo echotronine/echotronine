@@ -1,18 +1,35 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=122721&width=435&lines=Infinity+named+final+journey.)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echotronine&show_icons=true&theme=blue-green)]([https://github.com/echotronine](https://github.com/anuraghazra/github-readme-stats))
+# Hi there, I'm echotronine! 👋
 
-<!--
-**echotronine/echotronine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, open-source projects, and making the world a better place through code. Here's a little bit about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Table Vector**
+- 🌱 I’m learning **Rust**
+- 💬 Ask me about **React & Typescript**
+- 📫 How to reach me: **--**
+- 😄 Pronouns: **--**
+- ⚡ Fun fact: **Nocturnal animal**
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Languages**: TypeScript/JavaScript
+- **Frameworks & Libraries**: React/Next.js/Nest.js/RxJS
+- **Tools**: Vite/Rollup/ESBuild
+- **Other Skills**: Rust
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=echotronine&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---

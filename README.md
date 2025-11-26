@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source proje
 - 🌱 I’m learning **Rust**
 - 💬 Ask me about **React & Typescript**
 - 📫 How to reach me: **--**
-- 😄 Pronouns: **--**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Nocturnal animal**
 
 ---

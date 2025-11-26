@@ -17,7 +17,7 @@
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: TypeScript/JavaScript
-- **Frameworks & Libraries**: React/Next.js/Nest.js/RxJS
-- **Tools**: Vite/Rollup/ESBuild
-- **Other Skills**: Rust
+- Languages: [TypeScript, JavaScript]
+- Frameworks & Libraries: [React, Next.js, Nest.js, RxJS]
+- Tools: [Vite, Rollup, ESBuild]
+- Other Skills: [Rust]

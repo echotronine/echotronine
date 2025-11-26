@@ -27,9 +27,3 @@ Here are some of the technologies and tools I work with:
 - **Other Skills**: Rust
 
 ---
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=echotronine&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
